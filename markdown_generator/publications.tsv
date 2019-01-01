@@ -1,4 +1,13 @@
-pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2009-10-01	Paper Title Number 1	Journal 1	This paper is about the number 1. The number 2 is left for future work.	Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).	paper-title-number-1	http://academicpages.github.io/files/paper1.pdf
-2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf
-2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf
+pub_date	title	venue	excerpt	lead	url_slug	paper_url
+2018-07-26	Structural and Chemical Features Giving Rise to Defect Tolerance of Binary Semiconductors	Chemistry of Materials	summary	TRUE	binary-dt	http://dx.doi.org/10.1021/acs.chemmater.8b01505
+2018-05-22	"A-site cation in inorganic A$_3$Sb$_2$I$_9$ perovskite influences structural dimensionality, exciton binding energy, and solar cell performance"	Chemistry of Materials	summary	FALSE	antimony	http://dx.doi.org/10.1021/acs.chemmater.8b00676
+2017-12-28	Solvent-Engineering Method to Deposit Compact Bismuth-Based Thin Films: Mechanism and Application to Photovoltaics	Chemistry of Materials	summary	FALSE	bismuth-films	http://dx.doi.org/10.1021/acs.chemmater.7b03227
+2017-12-20	Rapid semiconductor device characterization through Bayesian parameter estimation	Joule	summary	FALSE	sns-joule	http://dx.doi.org/10.1016/j.joule.2017.10.001
+2017-07-17	Strongly Enhanced Photovoltaic Performance and Defect Physics of Air-Stable Bismuth Oxyiodide (BiOI)	Advanced Materials	summary	FALSE	bioi	http://dx.doi.org/10.1002/adma.201702176
+2017-06-28	High Tolerance to Iron Contamination in Lead Halide Perovskite Solar Cells	ACS Nano	summary	FALSE	fe-mapi	http://dx.doi.org/10.1021/acsnano.7b02734
+2017-05-09	Searching for ``Defect-Tolerant'' Photovoltaic Materials: Combined Theoretical and Experimental Screening	Chemistry of Materials	summary	FALSE	ns-lifetime	http://dx.doi.org/10.1021/acs.chemmater.6b05496
+2017-01-30	Perovskite-inspired photovoltaics: Best practices in materials characterization and calculations	Chemistry of Materials	summary	FALSE	best-practices	http://dx.doi.org/10.1021/acs.chemmater.6b03852
+2016-04-21	Economically sustainable scaling of photovoltaics to meet climate targets	Energy & Environmental Science	summary	FALSE	pv-climate	http://dx.doi.org/10.1039/C6EE00484A
+2016-02-12	Segmentation and Tracking of Marine Cellular Clouds observed by Geostationary Satellites	International Journal of Remote Sensing	summary	FALSE	clouds	http://dx.doi.org/10.1080/2150704X.2016.1142681
+2015-12-21	"Methylammonium bismuth iodide as a lead-free, stable hybrid organic-inorganic solar absorber"	Chemistry - A European Journal	summary	FALSE	mabi	http://dx.doi.org/10.1002/chem.201505055
+2015-10-12	Investigation of Bismuth Triiodide (BiI$_3$) for Photovoltaic Applications	The Journal of Physical Chemistry Letters	summary	FALSE	bii3	http://dx.doi.org/10.1021/acs.jpclett.5b02022
