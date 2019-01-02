@@ -23,7 +23,7 @@ import os
 #     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/talks/YYYY-MM-DD-[url_slug]`
 #     - The combination of `url_slug` and `date` must be unique, as it will be the basis for your filenames
 
-awards = pd.read_csv("awards.tsv", sep="\t", header=0)
+service = pd.read_csv("service.tsv", sep="\t", header=0)
 
 
 # ## Escape special characters
@@ -53,27 +53,30 @@ def html_escape(text):
 
 loc_dict = {}
 
-for row, item in awards.iterrows():
+for row, item in service.iterrows():
 
     md_filename = str(item.year) + "-" + item.url_slug + ".md"
     html_filename = str(item.year) + "-" + item.url_slug
     year = item.date[:4]
 
     md = "---\ntitle: \""   + item.title + '"\n'
-    md += "collection: awards" + "\n"
+    md += "collection: service" + "\n"
 
     #if len(str(item.type)) > 3:
         #md += 'type: "' + item.type + '"\n'
     #else:
-    md += 'type: "Award"\n'
+    md += 'type: "Service"\n'
 
-    md += "permalink: /awards/" + html_filename + "\n"
+    md += "permalink: /service/" + html_filename + "\n"
 
-    if len(str(item.granter)) > 3:
-        md += 'granter: "' + item.granter + '"\n'
+    if len(str(item.venue)) > 3:
+        md += 'venue: "' + item.venue + '"\n'
 
     if len(str(item.date)) > 3:
-        md += "date: " + str(item.date) + "\n"
+        md += 'date: ' + str(item.date) + '\n'
+
+    if len(str(item.date_str)) > 3:
+        md += 'date_str: "' + str(item.date_str) + '"\n'
 
     md += "---\n"
 
@@ -84,5 +87,5 @@ for row, item in awards.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
 
-    with open("../_awards/" + md_filename, 'w') as f:
+    with open("../_service/" + md_filename, 'w') as f:
         f.write(md)

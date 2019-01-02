@@ -97,7 +97,7 @@ for row, item in talks.iterrows():
     if len(str(item.description)) > 3:
         md += "\n" + html_escape(item.description) + "\n"
 
-    if len(str(item.talk_url)) > 3:
+    if len(str(item.talk_url)) > 3 and 'youtube' not in str(item.talk_url):
         md += " Click title to download PDF (I make no guarantee that animations will look nice)."
     else:
         md += "\n"

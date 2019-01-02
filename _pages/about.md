@@ -10,6 +10,13 @@ redirect_from:
 
 some personal intro text goes here
 
+Positions
+=========
+
+
+Education
+=========
+
 
 About this site
 ===============

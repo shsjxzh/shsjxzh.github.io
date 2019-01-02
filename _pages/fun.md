@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "For Fun"
+title: "Fun"
 permalink: /fun/
 author_profile: true
 redirect_from:
