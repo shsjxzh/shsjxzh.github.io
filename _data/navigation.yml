@@ -6,6 +6,9 @@ main:
   - title: "Talks"
     url: /talks/
 
+  - title: "Posters"
+    url: /posters/
+
   - title: "Teaching"
     url: /teaching/
 
@@ -18,8 +21,8 @@ main:
   - title: "Service"
     url: /service/
 
-  - title: "Recognition"
-    url: /recognition/
+  - title: "Awards"
+    url: /awards/
 
   - title: "CV"
     url: /cv/

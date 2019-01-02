@@ -7,4 +7,6 @@ redirect_from:
   - /service
 ---
 
+{% include base_path %}
+
 service info here

@@ -178,13 +178,18 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  #portfolio:
-  #  output: true
-  #  permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
-
+  posters:
+    output: true
+    permalink: /:collection/:path/
+  awards:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -239,6 +244,20 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: posters
+    values:
+      layout: poster
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: award
       author_profile: true
       share: true
 
