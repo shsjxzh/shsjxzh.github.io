@@ -14,8 +14,6 @@ Welcome to my website! Please check out ways to reach me as well as my various o
 
 I'm a computational scientist (with significant previous experimental experience), currently a Materials Science PhD candidate in the MIT Photovoltaics Research Laboratory working on materials discovery for solar cell absorbers. In particular, I perform first-principles simulations to understand defect physics in these materials as well as high-throughput device level simulations to use Bayesian inference along with experimental data to more quickly and accurately measure fundamental materials properties. I've developed an open-source code for this project, [bayesim](https://pv-lab.github.io/bayesim/_build/html/index.html), and am always keen to find new users!
 
- In August 2019 I'll be moving to Pittsburgh to start a postdoc at Carnegie Mellon in the group of Prof. Venkat Viswanathan, where I'll be applying similar techniques in the space of battery and fuel cell materials.
-
 You can download a CV [here](/files/CVKurchin.pdf).
 
 
