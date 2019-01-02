@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 # clear out old files
 rm _awards/*.md
@@ -8,8 +8,14 @@ rm _publications/*.md
 rm _talks/*.md
 
 # regenerate from TSV's
-python markdown_generator/awards.py
-python markdown_generator/posters.py
-python markdown_generator/publications.py
-python markdown_genrrator/service.py
-python markdown_generator/talks.py
+cd markdown_generator
+python awards.py
+python posters.py
+python publications.py
+python service.py
+python talks.py
+#python markdown_generator/awards.py ./markdown_generator/awards.tsv
+#python markdown_generator/posters.py ./markdown_generator/posters.tsv
+#python markdown_generator/publications.py ./markdown_generator/publications.tsv
+#python markdown_genrrator/service.py ./markdown_generator/service.tsv
+#python markdown_generator/talks.py ./markdown_generator/talks.tsv

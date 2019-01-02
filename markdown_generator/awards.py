@@ -1,36 +1,13 @@
-
-# coding: utf-8
-
-# # Talks markdown generator for academicpages
-#
-# Takes a TSV of talks with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)). The core python code is also in `talks.py`. Run either from the `markdown_generator` folder after replacing `talks.tsv` with one containing your data.
-#
-# TODO: Make this work with BibTex and other databases, rather than Stuart's non-standard TSV format and citation style.
-
-# In[1]:
-
 import pandas as pd
 import os
+import sys
 
+if len(sys.argv)>1:
+    path = sys.argv[1]
+else:
+    path = "awards.tsv"
 
-# ## Data format
-#
-# The TSV needs to have the following columns: title, type, url_slug, venue, date, location, poster_url, description, with a header at the top. Many of these fields can be blank, but the columns must be in the TSV.
-#
-# - Fields that cannot be blank: `title`, `url_slug`, `date`. All else can be blank. `type` defaults to "Talk"
-# - `date` must be formatted as YYYY-MM-DD.
-# - `url_slug` will be the descriptive part of the .md file and the permalink URL for the page about the paper.
-#     - The .md file will be `YYYY-MM-DD-[url_slug].md` and the permalink will be `https://[yourdomain]/talks/YYYY-MM-DD-[url_slug]`
-#     - The combination of `url_slug` and `date` must be unique, as it will be the basis for your filenames
-
-awards = pd.read_csv("awards.tsv", sep="\t", header=0)
-
-
-# ## Escape special characters
-#
-# YAML is very picky about how it takes a valid string, so we are replacing single and double quotes (and ampersands) with their HTML encoded equivilents. This makes them look not so readable in raw format, but they are parsed and rendered nicely.
-
-# In[4]:
+awards = pd.read_csv(path, sep="\t", header=0)
 
 html_escape_table = {
     "&": "&amp;",
@@ -44,12 +21,6 @@ def html_escape(text):
     else:
         return "False"
 
-
-# ## Creating the markdown files
-#
-# This is where the heavy lifting is done. This loops through all the rows in the TSV dataframe, then starts to concatentate a big string (```md```) that contains the markdown for each type. It does the YAML metadata first, then does the description for the individual page.
-
-# In[5]:
 
 loc_dict = {}
 
