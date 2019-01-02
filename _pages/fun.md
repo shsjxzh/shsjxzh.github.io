@@ -25,6 +25,8 @@ I'm also an endurance sports nut - running, cycling, swimming, rowing, hiking, r
 
 Music
 -----
-I'm also a violinist. I played in symphony orchestras for awhile, but my true loves are pit orchestras (I've done a lot of musicals and operettas) and chamber music (played for fun and also sometimes for money). I'm classically trained but love to dabble in various forms of traditional music; I have the most experience in the fiddles styles of the British Isles and Canada. Once upon a time, my research group had a band! You can see some terrible-quality videos from our (one and only) gig [here](https://www.youtube.com/watch?v=bV0iOsPjyMk), [here](https://www.youtube.com/watch?v=TJEpjHaR5VY), [here](https://www.youtube.com/watch?v=WToYsebbzzM), or [here](https://www.youtube.com/watch?v=vHYbFYXQTIU).
+I'm also a violinist. I played in symphony orchestras for awhile, but my true loves are pit orchestras (I've done a lot of musicals and operettas) and chamber music (played for fun and also sometimes for money). I'm classically trained but love to dabble in various forms of traditional music; I have the most experience in the fiddles styles of the British Isles and Canada.
+
+Once upon a time, my research group had a band! You can see some terrible-quality videos from our (one and only) gig [here](https://www.youtube.com/watch?v=bV0iOsPjyMk), [here](https://www.youtube.com/watch?v=TJEpjHaR5VY), [here](https://www.youtube.com/watch?v=WToYsebbzzM), or [here](https://www.youtube.com/watch?v=vHYbFYXQTIU).
 
 In the musical subcategory of "utterly wonderful silliness," you can also check out [this tribute](https://www.youtube.com/watch?v=qqkCK9jvKIg) to Prof. Meg Urry, the then-outgoing chair of the Yale Physics Department when I was a senior.
