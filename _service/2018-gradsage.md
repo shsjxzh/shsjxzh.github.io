@@ -4,7 +4,7 @@ collection: service
 type: "Service"
 permalink: /service/2018-gradsage
 venue: "MIT School of Engineering"
-date: 2018-10-01
+date: 18-10-01
 date_str: "2018 - present"
 ---
 

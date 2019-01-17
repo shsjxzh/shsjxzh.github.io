@@ -4,7 +4,7 @@ collection: service
 type: "Service"
 permalink: /service/2015-setim
 venue: "Solar Energy Technology & Innovation in Mexico workshop"
-date: 2015-01-01
+date: 15-01-01
 date_str: "2015"
 ---
 
