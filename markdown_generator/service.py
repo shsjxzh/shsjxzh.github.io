@@ -7,7 +7,7 @@ if len(sys.argv)>1:
 else:
     path = "service.tsv"
 
-service = pd.read_csv(path, sep="\t", header=0)
+service = pd.read_csv(path, sep="\t", header=0).dropna(how='all')
 
 html_escape_table = {
     "&": "&amp;",
@@ -26,8 +26,8 @@ loc_dict = {}
 
 for row, item in service.iterrows():
 
-    md_filename = str(item.year) + "-" + item.url_slug + ".md"
-    html_filename = str(item.year) + "-" + item.url_slug
+    md_filename = str(int(item.year)) + "-" + item.url_slug + ".md"
+    html_filename = str(int(item.year)) + "-" + item.url_slug
     year = item.date[:4]
 
     md = "---\ntitle: \""   + item.title + '"\n'

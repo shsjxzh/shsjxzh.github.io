@@ -4,7 +4,7 @@ collection: service
 type: "Service"
 permalink: /service/2011-ncuwpo
 venue: "Northeast Conference for Undergraduate Women in Physics"
-date: 11-01-01
+date: 2011-01-01
 date_str: "2011 - 2012"
 ---
 
