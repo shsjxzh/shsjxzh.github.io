@@ -1,5 +1,5 @@
 ---
-title: "MIT Materials Day Best Poster Award"
+title: "Materials Day Best Poster Award"
 collection: awards
 type: "Award"
 permalink: /awards/2018-matday
