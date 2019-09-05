@@ -15,17 +15,14 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  #- title: "Portfolio"
-  #  url: /portfolio/
-
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-
   - title: "Service"
     url: /service/
 
   - title: "Awards"
     url: /awards/
+
+  - title: "Tools"
+    url: /tools/
 
   - title: "Fun"
     url: /fun/
