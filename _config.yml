@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Rachel C. Kurchin"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Materials Science at MIT"
-  location         : "Cambridge, MA"
+  bio		   : "Postdoctoral fellow at Carnegie Mellon"
+  location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : "https://scholar.google.ch/citations?user=CSHe53oAAAAJ&hl=en&oi=ao"
-  email            : "rkurchin@mit.edu"
+  email            : "rkurchin@cmu.edu"
   researchgate     : "https://www.researchgate.net/profile/Rachel_Kurchin"
   uri              :
   bitbucket        :
