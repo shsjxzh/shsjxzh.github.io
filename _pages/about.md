@@ -12,11 +12,11 @@ redirect_from:
 
 Welcome to my website! Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my experience and work!
 
-I'm a computational scientist (with significant previous experimental experience), currently a Manufacturing Futures Initiative Postdoctoral Fellow working in the group of [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html) on optimization of battery materials. 
+I'm a computational materials scientist (with significant previous experimental experience), currently a Manufacturing Futures Initiative Postdoctoral Fellow working in the group of [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html) on optimization of battery materials. 
 
-Previously, I did my PhD in the [Photovoltaics Research Lab](http://pv.mit.edu) at MIT, where I performed first-principles simulations to understand defect physics in these materials as well as high-throughput device level simulations to use Bayesian inference along with experimental data to more quickly and accurately measure fundamental materials properties. I developed an open-source code for that project, [bayesim](https://pv-lab.github.io/bayesim/_build/html/index.html), and am always keen to find new users!
+Previously, I did my PhD in the [Photovoltaics Research Lab](http://pv.mit.edu) at MIT, where I performed first-principles simulations to understand defect physics in solar cell materials as well as high-throughput device-level simulations to use Bayesian inference along with experimental data to more quickly and accurately measure fundamental materials properties. I developed an open-source code for that project, [bayesim](https://pv-lab.github.io/bayesim/_build/html/index.html), and am always keen to find new users!
 
-You can download a CV [here](/files/CVKurchin.pdf).
+You can download my CV [here](/files/CVKurchin.pdf).
 
 
 About this site
