@@ -21,7 +21,7 @@ If you're into such things, I can be found on Ravelry as [FiberFiend6891](https:
 
 Athletics
 ---------
-I'm an endurance sports nut - running, cycling, swimming, rowing, hiking, really anything (ideally outdoors) to keep the heart rate up for a couple of hours. I raced on the Yale Bulldog Cycling team as an undergrad and now serve as the treasurer of the MIT Triathlon Club. I'm the proud (if very slow) finisher of two marathons and am currently training for my first Half-Iron distance triathlon! I was also the third place finisher at the Quasquicentennial Birch-Jolly swim on Lake Winnipesaukee in July 2018.
+I'm an endurance sports nut - running, cycling, swimming, rowing, hiking, really anything (ideally outdoors) to keep the heart rate up for a couple of hours. I raced on the Yale Bulldog Cycling team as an undergrad and now serve as the treasurer of the MIT Triathlon Club. I'm the proud (if very slow) finisher of two marathons and one Half-Iron distance triathlon! I was also the third place finisher at the Quasquicentennial Birch-Jolly swim on Lake Winnipesaukee in July 2018.
 
 Music
 -----
