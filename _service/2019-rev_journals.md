@@ -8,4 +8,4 @@ date: 19-03-01
 date_str: "2017 - present"
 ---
 
-Peer review for the ACS journal Applied Energy Materials and RSC journl Energy &amp; Environmental Science
+Peer review for the ACS journal Applied Energy Materials and RSC journal Energy &amp; Environmental Science
