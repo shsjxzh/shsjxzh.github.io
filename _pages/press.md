@@ -19,6 +19,8 @@ Not Science
 -----------
 * My wonderful friend Sarah [featured me on her vlog](https://www.youtube.com/watch?v=a8lfNXKWiME) where we discuss mental health in grad school. Serious business, but we had a fun time.
 
+* I recently discovered that I'm acknowledged by legendary Yale mathematician (and collaborator of the late Benoit Mandelbrot) Michael Frame in his book [_Fractal Worlds: Grown, Built, and Imagined_](https://yalebooks.yale.edu/book/9780300197877/fractal-worlds) (coauthored with Amelia Urry). I took his Fractal Geometry class as a sophomore and fondly remember everything about it, including great conversations during his office hours, so I couldn't be more honored about this!
+
 * [MIT Press](http://news.mit.edu/2017/mit-students-and-postdocs-advocate-for-science-engineering-funding-on-capitol-hill-0511) coverage of MIT Science Policy Initiative's 2017 Congressional Visit Days feat. a few pictures of business-casual me
 
 * [Yale Daily News](https://yaledailynews.com/blog/2013/02/13/two-yalies-named-gates-scholars/) coverage of Gates Cambridge scholarship
