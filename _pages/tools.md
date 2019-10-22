@@ -24,6 +24,8 @@ I use a lot of different Python packages too. For data-wrangling, I couldn't liv
 
 [Git](https://git-scm.com) is a great and near-ubiquitous version-control system. I'm at a pretty basic level of git competency, and like many people, I also use [GitHub](https://www.github.com).
 
+Maybe it hardly bears mentioning, but a big barrier for many new computationalists is getting familiar with a Unix environment. If this is something you are (or someone who know is) dealing with, I heartily recommend [Unix for the Beginning Mage](http://lab46.corning-cc.edu/_media/haas/ufbm.pdf) as a whimsical yet effective learning tool.
+
 Programming Environments
 ------------------------
 
@@ -36,6 +38,10 @@ When I'm editing code on a cluster, I'm a very-much-not-power-user of Emacs, but
 Academic Life
 -------------
 
-I manage my citations with [Mendeley](https://www.mendeley.com). I don't love that they're owned by Elsevier now so I'd love recommendations for your favorite alternatives. I tried ReadCube for awhile a few years ago but despite a cool feature set, I found it rather buggy.
+* I manage my papers/bibliographies with [Zotero](https://www.zotero.org).
 
-I recently switched over to [Spark](https://sparkmailapp.com) as my email client.
+* I recently switched over to [Spark](https://sparkmailapp.com) as my email client. Once they fix some bugs with their calendaring, I will likely use it for that too, but for the moment I use Google Calendar for that.
+
+* I keep notes using [Bear](https://bear.app), which I do pay for, but it's a quite modest fee for a totally gorgeous, functional app that syncs across all my devices.
+
+* I've moved to [Overleaf](https://www.overleaf.com) almost exclusively as my LaTeX editor. I love not having to manage a TeX environment locally, and being able to easily collaborate with others, etc.
