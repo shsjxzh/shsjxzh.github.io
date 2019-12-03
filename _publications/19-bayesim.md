@@ -1,9 +1,9 @@
 ---
 title: "Bayesim: a tool for adaptive grid model fitting with Bayesian inference"
 collection: publications
-permalink: /publication/2019-02-18-bayesim
+permalink: /publication/2/18/19-bayesim
 excerpt: 'Code release paper for Bayesim, my Bayesian inference Python package. For more information, see the [website](https://pv-lab.github.io/bayesim/_build/html/index.html).'
-date: 2019-02-18
+date: 2/18/19
 venue: 'Computer Physics Communications'
 lead: True
 paperurl: 'https://doi.org/10.1016/j.cpc.2019.01.022'

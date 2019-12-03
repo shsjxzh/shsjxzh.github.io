@@ -1,9 +1,9 @@
 ---
 title: "Methylammonium bismuth iodide as a lead-free, stable hybrid organic-inorganic solar absorber"
 collection: publications
-permalink: /publication/2015-12-21-mabi
+permalink: /publication/12/21/15-mabi
 excerpt: 'I worked on characterization for this paper.'
-date: 2015-12-21
+date: 12/21/15
 venue: 'Chemistry - A European Journal'
 lead: False
 paperurl: 'http://dx.doi.org/10.1002/chem.201505055'

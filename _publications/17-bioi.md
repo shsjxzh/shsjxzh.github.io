@@ -1,9 +1,9 @@
 ---
 title: "Strongly Enhanced Photovoltaic Performance and Defect Physics of Air-Stable Bismuth Oxyiodide (BiOI)"
 collection: publications
-permalink: /publication/2017-07-17-bioi
+permalink: /publication/7/17/17-bioi
 excerpt: 'Another joint experimental-computational paper. I ran some DFT defect energy calculations for this work.'
-date: 2017-07-17
+date: 7/17/17
 venue: 'Advanced Materials'
 lead: False
 paperurl: 'http://dx.doi.org/10.1002/adma.201702176'
