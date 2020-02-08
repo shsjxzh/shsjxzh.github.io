@@ -2,7 +2,7 @@
 title: "Don't finish that!"
 date: 2020-02-07
 permalink: /posts/2020/02/do-not-finish
-thumb: /images/jigsaw.jpg
+image: /images/jigsaw.jpg
 tags:
   - musings
   - time_management
