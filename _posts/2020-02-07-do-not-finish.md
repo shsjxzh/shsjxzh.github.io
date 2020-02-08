@@ -2,7 +2,9 @@
 title: "Don't finish that!"
 date: 2020-02-07
 permalink: /posts/2020/02/do-not-finish
-image: /images/jigsaw.jpg
+header:
+  image: /images/jigsaw.jpg
+excerpt: "More philosophizing! This time about time management."c
 tags:
   - musings
   - time_management
