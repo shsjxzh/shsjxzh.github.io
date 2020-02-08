@@ -1,21 +1,24 @@
 ---
-title: 'Don't finish that!'
+title: "Don't finish that!"
 date: 2020-02-07
 permalink: /posts/2020/02/do-not-finish
+teaser: /images/jigsaw.jpg
 tags:
   - musings
   - time_management
 ---
 
+(Teaser photo from [here](https://www.freepik.com/free-photo/jigsaw-puzzle-with-missing-piece-missing-puzzle-pieces_5469652.htm).)
+
 More philosophizing! This time about time management. The title is a bit misleading, but let me explain what I mean. I'll give some context first.
 
 As one progresses through various levels of studenthood, starting from kindergarten and going all the way through PhD, a monotonic trend is that a smaller and smaller fraction of your time is taken up with structured classroom activities, and a larger and larger fraction with ``homework'' of some kind -- the specific nature of it obviously changes over time, but the key feature is that there is not generally a specific time or sequence in which these tasks need to be completed. Said another way, the further you get, the more power you have to _manage your own time_.
 
-As Uncle Ben said, with great power comes great responsibility. Personally, I adore the flexibility afforded by the lifestyle of a senior grad student (or now, postdoc, which isn't **that** different). If it's a completely gorgeous morning and I don't have to be at a meeting, I can take off on a bike ride and nobody minds. But, like many others, I sometimes struggle with how to co-optimize my happiness with my productivity under this scheme, and occasionally struggle with feelings of guilt about whether I could be more productive (which contributes to neither productivity nor happiness, as it turns out).
+As Uncle Ben said, with great power comes great responsibility. Personally, I adore the flexibility afforded by the lifestyle of a senior grad student (or now, postdoc, which isn't **that** different). If it's a completely gorgeous morning and I don't have to be at a meeting, I can take off on a bike ride and nobody minds. But, like many others, I sometimes struggle with how to co-optimize my happiness with my productivity under this scheme, and occasionally struggle with feelings of guilt about whether I could be more productive without sacrificing happiness (the agonizing over which contributes to neither productivity nor happiness, as it turns out).
 
-I've certainly tried to internalize some general principles around this optimization, which include:
+I've tried to internalize some general principles around this optimization, which include:
 
-1. Knowing what time you do your best thinking (for me, it's the period starting 1-2 hours after I wake up and ending 5-7 hours after) and jealously guarding any long, uninterrupted stretches of time in that window for the really intensive intellectual tasks in my research.
+1. Knowing what time you do your best thinking (for me, it's the period starting 1-2 hours after I wake up and ending 4-5 hours after) and jealously guarding any uninterrupted stretches of time in that window for the really intensive intellectual tasks in my research.
 
 2. (corollary of 1) Saving tasks that don't require as much mental bandwidth (e.g. responding to emails, filing for reimbursements, etc.) for other times, in particular those annoying short slots of a few tens of minutes that occasionally develop between other obligations.
 
@@ -27,7 +30,7 @@ I've generally been pretty good at implementing these principles. The one I fail
 
 So now we come to the title of the post, which alludes to something I've recently realized, which could potentially be referred to as a "life hack," as trite and [so 2013](https://trends.google.com/trends/explore?date=all&geo=US&q=life%20hack) as the term may be. This was fueled by the realization that the fundamental problem that leads to the wasting of the quality hours I just described is that in general, there's a _much_ lower activation energy to read a few emails than to dive into some big, potentially amorphous research task. And seeing the unread badge count of my email client decrease gives me a little endorphin boost as if I'm actually being productive! It's so tempting!
 
-Answer: Leave research tasks in an unfinished state.
+Answer: **Leave research tasks in an unfinished state.**
 
 What exactly do I mean?
 
