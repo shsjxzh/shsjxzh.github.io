@@ -31,9 +31,14 @@ Programming Environments
 
 For interactive testing of Julia and Python code with inline output, I'm an extensive user of [Jupyter](https://jupyter.org). [Binder](https://www.mybinder.org) is a related useful tool that lets you spin up Jupyter kernels from git repos in the cloud!
 
-I learned about [iTerm2](https://iterm2.com) from my amazing friend and mentor [Prashun](https://www.prashungorai.org/) and never looked back. Just a super reliable, customizable terminal app. I particularly love their Minimal theme and status bar customization options in the latest release!
+I learned about [iTerm2](https://iterm2.com) from my amazing friend and mentor [Prashun](https://www.prashungorai.org/) and never looked back. Just a super reliable, customizable terminal app. I particularly love their Minimal theme and status bar customization options in the latest release! I also more recently found out about [oh my zsh](https://ohmyz.sh), which offers a lot of other cool CLI customization, including lots of aautocompletes, easy prompt customization to include all kinds of stuff, etc.
 
-When I'm editing code on a cluster, I'm a very-much-not-power-user of Emacs, but when I'm able to edit locally, I love love love [Atom](https://atom.io). Super nice-looking out of the box but nearly infinitely customizable with extensions for every possible need! The extensions I use include 
+When I'm editing code on a cluster, I'm a very-much-not-power-user of Emacs, but when I'm able to edit locally, I love love love [Atom](https://atom.io). Super nice-looking out of the box but nearly infinitely customizable with extensions for every possible need! My favorite extensions include:
+* [Juno](https://atom.io/packages/uber-juno) (also available as a [separate installation](https://junolab.org), optimizes Atom's setup as a Julia IDE)
+* [file-icons](https://atom.io/packages/file-icons): file-specific icons in folder tree views
+* [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit): use Atom to edit files on remote servers! Woohoo! (though I still use Emacs for quick things)
+
+All my IDE's of any kind are set up to use the [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) font with its gorgeous design and sexy ligatures.
 
 Academic Life
 -------------
@@ -45,3 +50,7 @@ Academic Life
 * I keep notes using [Bear](https://bear.app), which I do pay for, but it's a quite modest fee for a totally gorgeous, functional app that syncs across all my devices.
 
 * I've moved to [Overleaf](https://www.overleaf.com) almost exclusively as my LaTeX editor. I love not having to manage a TeX environment locally, and being able to easily collaborate with others, etc.
+
+* Relatively recently, I've started using [Trello](https://trello.com) to keep track of to-dos. So far, it's been good and I've been able to stick with it, unlike prior attempts at to-do lists. I keep three boards: Research, Administrivia, and Personal. The Research board has lists for Coding, Reading, Disseminating, Learning, and Done. Under Administrivia, there's In Progress, Professional Development, Financial, and Other Minutiae. Finally, the Personal board has a few lists for non-work-related things.
+
+* I can get a bit obsessive about aiming for Inbox Zero with my email, which can be a distraction from other work. In addition to making liberal use of full-screen mode to completely shut out distractions, I've also started using [Unroll.me](https://unroll.me) to turn subscription emails into daily digests and reduce the number of push notifications I get while not filtering out things that might actually require urgent responses.

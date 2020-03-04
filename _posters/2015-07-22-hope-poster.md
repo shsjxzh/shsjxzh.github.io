@@ -8,4 +8,4 @@ date: 2015-07-22
 location: "Golden, CO"
 ---
 
-Early stage of my PhD work, presented at the Hands-On Photovoltaic Experience workshop, held at the National Renewable Energy Laboratory each summer.
+Early stage of my PhD work, presented at the Hands-On Photovoltaic Experience Workshop, held at the National Renewable Energy Laboratory each summer.

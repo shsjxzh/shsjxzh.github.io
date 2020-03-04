@@ -3,7 +3,7 @@ title: "Graduate Student Teaching Award"
 collection: awards
 type: "Award"
 permalink: /awards/2019-dmse_teaching
-granter: "MIT Department of Materials Science and Engineering"
+granter: "MIT Dept. of Materials Science and Engineering"
 date: 2019-06-06
 ---
 
