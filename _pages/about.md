@@ -20,7 +20,7 @@ My overarching goal in my work is to have an impact on the existential problem o
 
 Since my time as an undergrad in physics at Yale, I've also been devoted to the cause of increasing representation of women (and other URG's) in STEM fields. In 2012, I helped to organize the Northeast [Conference for Undergraduate Women in Physics](https://www.aps.org/programs/women/workshops/cuwip.cfm), and I returned to the conference as a graduate student speaker 2015. At MIT, I served as co-president of Women of Materials Science (WoMS).
 
-Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my other experience and work! You can download my CV [here](/files/CVKurchin.pdf).
+Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my other experience and work! You can download my CV [here](/files/Kurchin_CV.pdf).
 
 About this site
 ===============

@@ -186,6 +186,9 @@ collections:
   service:
     output: true
     permalink: /:collection/:path/
+  reviewing:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
