@@ -2,13 +2,14 @@
 title: 'Impostor syndrome and mental models'
 date: 2019-10-21
 permalink: /posts/2019/09/impostor-syndrome-mental-models
+excerpt: "Cross-pollination of ideas about STEM pedagogy and minority representation."
 tags:
   - impostor_syndrome
   - pedagogy
   - musings
 ---
 
-Jerry and I both love teaching and so (especially now that he’s a professor with students of his own!) we frequently have conversations about pedagogical approaches, and these frequently come back to the idea of mental models. That is, when a student is having trouble understanding something, often it’s because their internal picture of how that system works, or how a new concept connects to old ones, is flawed or incomplete in some way. This could be due to any number of reasons, including (but not limited to): 
+Jerry and I both love teaching and so (especially now that he’s a professor with students of his own!) we frequently have conversations about pedagogical approaches, and these frequently come back to the idea of mental models. That is, when a student is having trouble understanding something, often it’s because their internal picture of how that system works, or how a new concept connects to old ones, is flawed or incomplete in some way. This could be due to any number of reasons, including (but not limited to):
 
 * poor prior teaching,
 * an overreliance on rote memorization over deep understanding, or

@@ -4,7 +4,7 @@ date: 2020-05-23
 permalink: /posts/2020/05/quarantine-project
 excerpt: "Alcohol-motivated web scraping."
 tags:
-  - fun_projects
+  - coding_projects
   - python
 ---
 
