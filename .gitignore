@@ -4,3 +4,4 @@ _site/
 future_content*
 *.DS_Store
 *#
+*Gemfile*
