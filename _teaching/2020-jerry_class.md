@@ -1,6 +1,6 @@
 ---
 title: "Where do Molecular Dynamics Potentials Come From?"
-collection: talks
+collection: teaching
 type: "Guest Lecture"
 permalink: /talks/2020-jerry_class
 venue: "CMU Course 12-623/24-623: Molecular Simulation of Materials"

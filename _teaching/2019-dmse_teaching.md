@@ -1,6 +1,6 @@
 ---
 title: "Graduate Student Teaching Award"
-collection: awards
+collection: teaching
 type: "Award"
 permalink: /awards/2019-dmse_teaching
 venue: "MIT Dept. of Materials Science and Engineering"

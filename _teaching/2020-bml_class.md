@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Parameter Estimation: Computational Methods"
-collection: talks
+collection: teaching
 type: "Guest Lectures"
 permalink: /talks/2020-02-17-bml_class
 venue: "CMU Course 24-786: Bayesian Machine Learning"
