@@ -3,7 +3,7 @@ title: "Rising Star in Computational and Data Sciences"
 collection: awards
 type: "Award"
 permalink: /awards/2020-rising_star
-granter: "Oden Institute at the University of Texas at Austin"
+granter: "Oden Institute at UT Austin"
 date: 2020-10-13
 ---
 

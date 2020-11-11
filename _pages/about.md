@@ -12,9 +12,9 @@ redirect_from:
 
 Welcome to my website!
 
-I'm a computational materials scientist (with significant previous experimental experience), currently a Manufacturing Futures Initiative Postdoctoral Fellow working in the group of [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html) on optimization of battery materials. 
+I'm a computational materials scientist (with significant previous experimental experience), currently a Molecular Sciences Software Institute Postdoctoral Fellow working in the group of [Venkat Viswanathan](http://www.andrew.cmu.edu/user/venkatv/index.html) on discovery of battery and catalyst materials. 
 
-Previously, I did my PhD in the [Photovoltaics Research Lab](http://pv.mit.edu) at MIT, where I performed first-principles simulations to understand defect physics in solar cell materials as well as high-throughput device-level simulations to use Bayesian inference along with experimental data to more quickly and accurately measure fundamental materials properties. I developed an open-source code for that project, [bayesim](https://pv-lab.github.io/bayesim/_build/html/index.html), and am always keen to find new users!
+Previously, I did my PhD in the [Photovoltaics Research Lab](http://pv.mit.edu) at MIT, where I performed first-principles simulations to understand defect physics in solar cell materials as well as high-throughput device-level simulations to use Bayesian inference along with experimental data to more quickly and accurately measure fundamental materials properties. Prior to that, I received my MPhil in Materials Science and Metallurgy from the University of Cambridge, supported by a Gates Cambridge Scholarship.
 
 My overarching goal in my work is to have an impact on the existential problem of climate change through improving renewable energy technology. I've also been involved in renewables-related outreach through [Project Bright](http://campuspress.yale.edu/projectbright/) at Yale as well as various organizations at MIT including my former research group, the [MIT Energy Club](https://www.mitenergyclub.org) (where I led the Solar/Grid community for two years), the Office of Sustainability, Fossil Free MIT, and the [Science Policy Initiative](mit science policy initative).
 

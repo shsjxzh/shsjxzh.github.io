@@ -3,7 +3,7 @@ title: "Graduate Student Teaching Award"
 collection: awards
 type: "Award"
 permalink: /awards/2019-mit_teaching
-granter: "MIT School of Engineering"
+venue: "MIT School of Engineering"
 date: 2019-05-01
 ---
 
