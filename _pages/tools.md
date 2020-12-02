@@ -51,6 +51,4 @@ Academic Life
 
 * I've moved to [Overleaf](https://www.overleaf.com) almost exclusively as my LaTeX editor. I love not having to manage a TeX environment locally, and being able to easily collaborate with others, etc.
 
-* Relatively recently, I've started using [Trello](https://trello.com) to keep track of to-dos. So far, it's been good and I've been able to stick with it, unlike prior attempts at to-do lists. I keep three boards: Research, Administrivia, and Personal. The Research board has lists for Coding, Reading, Disseminating, Learning, and Done. Under Administrivia, there's In Progress, Professional Development, Financial, and Other Minutiae. Finally, the Personal board has a few lists for non-work-related things.
-
 * I can get a bit obsessive about aiming for Inbox Zero with my email, which can be a distraction from other work. In addition to making liberal use of full-screen mode to completely shut out distractions, I've also started using [Unroll.me](https://unroll.me) to turn subscription emails into daily digests and reduce the number of push notifications I get while not filtering out things that might actually require urgent responses.
