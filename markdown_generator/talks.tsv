@@ -1,4 +1,5 @@
 title	type	url_slug	venue	date	location	talk_url	description
+Graph Convolutional Networks for Atomic Structures	Seminar	mldg2020	Cambridge Machine Learning Discussion Group	2020-12-07	Cambridge, UK		Brief tutorial on graph convolution and introduction of ChemistryFeaturization.jl and AtomicGraphNets.jl.
 Marcus-Hush-Chidsey Kinetics at Solid Surfaces	Seminar	bmws-2020	Battery Modeling Webinar Series	2020-12-01	online		Presented results from our recent JCP paper as part of a series on interfacial electrochemical kinetics hosted by Aashutosh Mistry.
 Accelerating Energy Materials Discovery with Computation	Seminar	fau-seminar-2020	Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)	2020-08-12	"virtually in Nuremberg, Germany"		Prof. Christoph Brabec kindly invited me to give a seminar for the Institute of Materials for Electronics and Energy Technology.
 Accelerating Energy Materials Discovery with Computation	Seminar	uiuc-seminar-2020	University of Illinois Urbana-Champaign Electrical & Computer Engineering Department	2020-03-12	"Urbana, IL"		Invited departmental seminar at UIUC where I discussed both my PhD and postdoctoral work.
