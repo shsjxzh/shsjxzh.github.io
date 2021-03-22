@@ -1,5 +1,5 @@
 ---
-title: "Member, Graduate Student Advisory Group for Engineering"
+title: "Graduate Student Advisory Group for Engineering"
 collection: service
 type: "Service"
 permalink: /service/2018-gradsage
