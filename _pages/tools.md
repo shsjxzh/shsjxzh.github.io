@@ -18,11 +18,13 @@ I'm also always keen to learn new tools, so if you think you can improve my work
 Progamming Languages
 --------------------
 
-My most fluent programming at the moment is [Python](https://www.python.org), although I'm working on learning [Julia](https://www.julialang.org)!
+My most fluent programming at the moment is probably still [Python](https://www.python.org), although [Julia](https://www.julialang.org) is actually what I use most frequently and my fluency is growing fast!
 
-I use a lot of different Python packages too. For data-wrangling, I couldn't live without [Pandas](https://pandas.pydata.org) or the rest of the [SciPy](https://www.scipy.org) ecosystem, especially NumPy for mathy things and matplotlib for visualization. [Seaborn](https://seaborn.pydata.org) is another great visualization package built on top of matplotlib. For simple parallelization tasks, [Joblib](https://joblib.readthedocs.io/en/latest/) makes life a lot easier. And for interacting with HDF5 files super simply, [deepdish](https://deepdish.readthedocs.io/en/latest/) (sadly no longer maintained) is also pretty great.
+Julia packages I rely on include [Flux](https://fluxml.ai) for building machine learning models, [UnicodePlots](https://github.com/Evizero/UnicodePlots.jl) for quick dataviz in the terminal, as well as various tools from the [JuliaGraphs](https://github.com/JuliaGraphs/LightGraphs.jl) and [SciML](https://sciml.ai) ecosystems.
 
-[Git](https://git-scm.com) is a great and near-ubiquitous version-control system. I'm at a pretty basic level of git competency, and like many people, I also use [GitHub](https://www.github.com).
+Python packages of note: For data-wrangling, I couldn't live without [Pandas](https://pandas.pydata.org) or the rest of the [SciPy](https://www.scipy.org) ecosystem, especially NumPy for mathy things and matplotlib for visualization. [Seaborn](https://seaborn.pydata.org) is another great visualization package built on top of matplotlib. For simple parallelization tasks, [Joblib](https://joblib.readthedocs.io/en/latest/) makes life a lot easier. And for interacting with HDF5 files super simply, [deepdish](https://deepdish.readthedocs.io/en/latest/) (sadly no longer maintained) is also pretty great.
+
+[Git](https://git-scm.com) is a great and near-ubiquitous version-control system. I'm at a pretty basic level of git competency, and like many people, I also use [GitHub](https://www.github.com) and [ungit](https://github.com/FredrikNoren/ungit) for visualizing the tree.
 
 Maybe it hardly bears mentioning, but a big barrier for many new computationalists is getting familiar with a Unix environment. If this is something you are (or someone who know is) dealing with, I heartily recommend [Unix for the Beginning Mage](http://lab46.corning-cc.edu/_media/haas/ufbm.pdf) as a whimsical yet effective learning tool.
 
@@ -34,7 +36,7 @@ For interactive testing of Julia and Python code with inline output, I'm an exte
 I learned about [iTerm2](https://iterm2.com) from my amazing friend and mentor [Prashun](https://www.prashungorai.org/) and never looked back. Just a super reliable, customizable terminal app. I particularly love their Minimal theme and status bar customization options in the latest release! I also more recently found out about [oh my zsh](https://ohmyz.sh), which offers a lot of other cool CLI customization, including lots of aautocompletes, easy prompt customization to include all kinds of stuff, etc.
 
 When I'm editing code on a cluster, I'm a very-much-not-power-user of Emacs, but when I'm able to edit locally, I love love love [Atom](https://atom.io). Super nice-looking out of the box but nearly infinitely customizable with extensions for every possible need! My favorite extensions include:
-* [Juno](https://atom.io/packages/uber-juno) (also available as a [separate installation](https://junolab.org), optimizes Atom's setup as a Julia IDE)
+* [Juno](https://atom.io/packages/uber-juno) (also available as a [separate installation](https://junolab.org), optimizes Atom's setup as a Julia IDE – sadly this is also no longer supported and I'm working on shifting myself over to VS Code for Julia development)
 * [file-icons](https://atom.io/packages/file-icons): file-specific icons in folder tree views
 * [ftp-remote-edit](https://atom.io/packages/ftp-remote-edit): use Atom to edit files on remote servers! Woohoo! (though I still use Emacs for quick things)
 
