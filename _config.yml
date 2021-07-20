@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true #change to true to add link to talkmap on talks page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -83,6 +83,7 @@ author:
   name             : "Rachel C. Kurchin"
   avatar           : "profile.png"
   bio		   : "Postdoctoral fellow at Carnegie Mellon"
+  cv		   : "https://rkurchin.github.io/files/Kurchin_CV.pdf"
   location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : "https://scholar.google.ch/citations?user=CSHe53oAAAAJ&hl=en&oi=ao"
@@ -177,9 +178,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  posters:
-    output: true
-    permalink: /:collection/:path/
+#  posters:
+#    output: false
+#    permalink: /:collection/:path/
   awards:
     output: true
     permalink: /:collection/:path/
@@ -187,6 +188,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   reviewing:
+    output: true
+    permalink: /:collection/:path/
+  editing:
     output: true
     permalink: /:collection/:path/
 
@@ -245,13 +249,13 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  - scope:
-      path: ""
-      type: posters
-    values:
-      layout: poster
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: posters
+#    values:
+#      layout: poster
+#      author_profile: true
+#      share: true
   - scope:
       path: ""
       type: awards
