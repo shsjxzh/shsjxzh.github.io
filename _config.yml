@@ -172,27 +172,27 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: false
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
 #  posters:
 #    output: false
 #    permalink: /:collection/:path/
-  awards:
-    output: true
-    permalink: /:collection/:path/
+#  awards:
+#    output: true
+#    permalink: /:collection/:path/
   service:
     output: true
     permalink: /:collection/:path/
-  reviewing:
-    output: true
-    permalink: /:collection/:path/
-  editing:
-    output: true
-    permalink: /:collection/:path/
+#  reviewing:
+#    output: true
+#    permalink: /:collection/:path/
+#  editing:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
