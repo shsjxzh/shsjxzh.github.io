@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Blog"
-    url: /year-archive/
-
   - title: "Publications"
     url: /publications/
 
@@ -23,6 +20,9 @@ main:
 
 #  - title: "Awards"
 #    url: /awards/
+
+  - title: "Blog"
+    url: /year-archive/
 
   - title: "Press"
     url: /press/

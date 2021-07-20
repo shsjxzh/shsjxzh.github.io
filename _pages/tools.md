@@ -18,7 +18,7 @@ I'm also always keen to learn new tools, so if you think you can improve my work
 Progamming Languages
 --------------------
 
-My most fluent programming at the moment is probably still [Python](https://www.python.org), although [Julia](https://www.julialang.org) is actually what I use most frequently and my fluency is growing fast!
+[Julia](https://www.julialang.org) is my go-to language nowadays, though my Python isn't too bad...
 
 Julia packages I rely on include [Flux](https://fluxml.ai) for building machine learning models, [UnicodePlots](https://github.com/Evizero/UnicodePlots.jl) for quick dataviz in the terminal, as well as various tools from the [JuliaGraphs](https://github.com/JuliaGraphs/LightGraphs.jl) and [SciML](https://sciml.ai) ecosystems.
 
