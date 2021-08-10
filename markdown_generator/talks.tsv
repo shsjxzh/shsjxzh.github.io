@@ -1,4 +1,6 @@
 title	type	url_slug	venue	date	location	talk_url	description
+Introducing Chemellia: Machine Learning, with Atoms	Talk	chemellia_jc21	JuliaCon	2021-07-30	online		
+Building a Chemistry and Materials Science Ecosystem in Julia	Discussion Leader	juliamolsim_jc21	JuliaCon	2021-07-28	online		I organized and led a discussion with developers and major stakeholders to move towards consensus on methods and interfaces for quantum and molecular simulation in the Julia programming language
 High-fidelity Accelerated Design of High-performance Electrochemical Systems	Invited Talk	mst_2020	Materials Science & Technology Conference 2020	2020-10-27	online
 Graph Convolutional Networks for Atomic Structures	Seminar	mldg2020	Cambridge Machine Learning Discussion Group	2020-12-07	Cambridge, UK		Brief tutorial on graph convolution and introduction of ChemistryFeaturization.jl and AtomicGraphNets.jl.
 Marcus-Hush-Chidsey Kinetics at Solid Surfaces	Seminar	bmws-2020	Battery Modeling Webinar Series	2020-12-01	online		Presented results from our recent JCP paper as part of a series on interfacial electrochemical kinetics hosted by Aashutosh Mistry.
