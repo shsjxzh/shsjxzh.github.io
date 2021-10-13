@@ -1,4 +1,5 @@
 title	type	url_slug	venue	date	location	talk_url	description
+Do Me a Solid: Materials Modeling to Fight Climate Change	Seminar	mmc21	Carnegie Mellon Department of Civil and Environmental Engineering	2021-10-15	"Pittsburgh, PA"		I was invited to speak on my work at the CEE MMC (Mechanics, Materials, and Computing) Seminar
 Introducing Chemellia: Machine Learning, with Atoms	Talk	chemellia_jc21	JuliaCon	2021-07-30	online		
 Building a Chemistry and Materials Science Ecosystem in Julia	Discussion Leader	juliamolsim_jc21	JuliaCon	2021-07-28	online		I organized and led a discussion with developers and major stakeholders to move towards consensus on methods and interfaces for quantum and molecular simulation in the Julia programming language
 High-fidelity Accelerated Design of High-performance Electrochemical Systems	Invited Talk	mst_2020	Materials Science & Technology Conference 2020	2020-10-27	online
