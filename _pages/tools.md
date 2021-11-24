@@ -49,7 +49,7 @@ Academic Life
 
 * I recently switched over to [Spark](https://sparkmailapp.com) as my email client. Once they fix some bugs with their calendaring, I will likely use it for that too, but for the moment I use Google Calendar for that.
 
-* I keep notes using [Bear](https://bear.app), which I do pay for, but it's a quite modest fee for a totally gorgeous, functional app that syncs across all my devices.
+* I keep notes using [Notion](https://notion.so).
 
 * I've moved to [Overleaf](https://www.overleaf.com) almost exclusively as my LaTeX editor. I love not having to manage a TeX environment locally, and being able to easily collaborate with others, etc.
 
