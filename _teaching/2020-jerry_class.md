@@ -4,7 +4,7 @@ collection: teaching
 type: "Guest Lecture"
 permalink: /talks/2020-jerry_class
 venue: "CMU Course 12-623/24-623: Molecular Simulation of Materials"
-date: 2020-2021
+date: 2020-09-01
 location: "Pittsburgh, PA"
 ---
 
