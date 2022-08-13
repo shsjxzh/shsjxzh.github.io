@@ -24,8 +24,8 @@ main:
   - title: "Press"
     url: /press/
 
-  - title: "Tools"
-    url: /tools/
+#  - title: "Tools"
+#    url: /tools/
 
   - title: "Fun"
     url: /fun/
