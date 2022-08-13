@@ -172,26 +172,11 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-#  portfolio:
-#    output: false
-#    permalink: /:collection/:path/
 #  talks:
 #    output: true
 #    permalink: /:collection/:path/
-#  posters:
+#  service:
 #    output: false
-#    permalink: /:collection/:path/
-#  awards:
-#    output: true
-#    permalink: /:collection/:path/
-  service:
-    output: true
-    permalink: /:collection/:path/
-#  reviewing:
-#    output: true
-#    permalink: /:collection/:path/
-#  editing:
-#    output: true
 #    permalink: /:collection/:path/
 
 # Defaults
@@ -232,23 +217,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  #- scope:
-  #    path: ""
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+ # - scope:
+ #     path: ""
+ #     type: talks
+ #   values:
+ #     layout: talk
+ #     author_profile: true
+ #     share: true
 #  - scope:
 #      path: ""
 #      type: posters
@@ -256,20 +232,20 @@ defaults:
 #      layout: poster
 #      author_profile: true
 #      share: true
-  - scope:
-      path: ""
-      type: awards
-    values:
-      layout: award
-      author_profile: true
-      share: true
-  - scope:
-      path: ""
-      type: service
-    values:
-      layout: service
-      author_profile: true
-      share: true
+ # - scope:
+ #     path: ""
+ #     type: awards
+ #   values:
+ #     layout: award
+ #     author_profile: true
+ #     share: true
+#  - scope:
+#      path: ""
+#      type: service
+#    values:
+#      layout: service
+#      author_profile: true
+#      share: true
 
 # Sass/SCSS
 sass:
