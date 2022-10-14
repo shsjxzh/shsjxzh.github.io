@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachel C. Kurchin"
+title                    : "Rachel C. Kurchin, PhD"
 title_separator          : "-"
-name                     : &name "Rachel C. Kurchin"
-description              : &description "Postdoctoral fellow at Carnegie Mellon"
+name                     : &name "Rachel C. Kurchin, PhD"
+description              : &description "Assistant Research Professor at Carnegie Mellon"
 url                      : https://rkurchin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rkurchin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rachel C. Kurchin"
   avatar           : "profile.png"
-  bio		   : "Postdoctoral fellow at Carnegie Mellon"
+  bio		   : "Assistant Research Professor at Carnegie Mellon"
   cv		   : "https://rkurchin.github.io/files/Kurchin_CV.pdf"
   location         : "Pittsburgh, PA"
   employer         :
