@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachel C. Kurchin, PhD"
+title                    : "Zihao Xu"
 title_separator          : "-"
-name                     : &name "Rachel C. Kurchin, PhD"
-description              : &description "Assistant Research Professor at Carnegie Mellon"
-url                      : https://rkurchin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zihao Xu"
+description              : &description "PhD student at Rutgers"
+url                      : https://shsjxzh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rkurchin.github.io"
+repository               : "shsjxzh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
