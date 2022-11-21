@@ -1,17 +1,26 @@
 # Authors
 
-Rachel C. Kurchin:
-  name        : "Rachel C. Kurchin"
-  uri         : "http://rkurchin.github.io"
-  email       : "rkurchin@mit.edu"
-  bio         : "test bio"
-  avatar      : "profile.png"
-  googlescholar: "https://scholar.google.ch/citations?user=CSHe53oAAAAJ&hl=en&oi=ao"
+# Rachel C. Kurchin:
+#   name        : "Rachel C. Kurchin"
+#   uri         : "http://rkurchin.github.io"
+#   email       : "rkurchin@mit.edu"
+#   bio         : "test bio"
+#   avatar      : "profile.png"
+#   googlescholar: "https://scholar.google.ch/citations?user=CSHe53oAAAAJ&hl=en&oi=ao"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Name2 Name2:
+#   name        : "Name2 Name2"
+#   email       : "name2@name2.com"
+#   bio         : "I ordered what?"
+#   avatar      : "bio-photo.jpg"
+#   twitter     : "name2"
+#   google_plus : "Name"
+
+
+Zihao Xu:
+  name        : "Zihao Xu"
+  email       : "zihao.xu@rutgers.edu"
+  # bio         : "I ordered what?"
+  avatar      : "profile2.jpg"
+  # twitter     : "name2"
+  # google_plus : "Name"
