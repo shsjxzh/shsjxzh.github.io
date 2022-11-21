@@ -80,32 +80,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rachel C. Kurchin"
+  name             : "Zihao Xu"
   avatar           : "profile.png"
-  bio		   : "Assistant Research Professor at Carnegie Mellon"
-  cv		   : "https://rkurchin.github.io/files/Kurchin_CV.pdf"
-  location         : "Pittsburgh, PA"
+  bio		   : "PhD student at Rutgers"
+  cv		   : "https://shsjxzh.github.io/files/Kurchin_CV.pdf"
+  location         : "New Brunswick, NJ"
   employer         :
-  googlescholar    : "https://scholar.google.ch/citations?user=CSHe53oAAAAJ&hl=en&oi=ao"
-  email            : "rkurchin@cmu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Rachel_Kurchin"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=hhMeSk8AAAAJ"
+  email            : "zihao.xu@rutgers.edu"
+  researchgate     : # "https://www.researchgate.net/profile/Rachel_Kurchin"
   uri              :
   bitbucket        :
   codepen          :
   facebook         :
-  github           : "rkurchin"
+  github           : "shsjxzh"
   keybase          :
   instagram        :
-  linkedin         : "https://www.linkedin.com/in/rachel-kurchin-4b618864/"
-  orcid            : "https://orcid.org/0000-0002-2147-4809"
+  linkedin         : "https://www.linkedin.com/in/zihao-xu-846bb71a1/?original_referer="
+  orcid            : # "https://orcid.org/0000-0002-2147-4809"
   pinterest        :
-  ravelry          : "https://www.ravelry.com/projects/FiberFiend6891"
+  ravelry          : # "https://www.ravelry.com/projects/FiberFiend6891"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  strava           : "https://www.strava.com/athletes/4506195"
-  twitter          : "rachel_kurchin"
+  strava           : # "https://www.strava.com/athletes/4506195"
+  twitter          : # "rachel_kurchin"
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCCMRzNUHhoTLN02wDnZcBPg"
   wikipedia        :
 
 
