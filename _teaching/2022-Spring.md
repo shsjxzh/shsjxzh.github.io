@@ -8,7 +8,7 @@ date: 2022-01-18
 location: "New Brunswick, NJ"
 ---
 
-I served as a teaching assistant to the undergraduate course CS 344: *Design and Analysis of Computer Algorithms*, taught by Prof. Geoffrey Beach. Responsibilities included grading exams and homeworks, giving recitation lectures, and holding office hours.
+I served as a teaching assistant to the undergraduate course CS 344: *Design and Analysis of Computer Algorithms*, taught by Prof. Aaron Bernstein. Responsibilities included grading exams and homeworks, giving recitation lectures, and holding office hours.
 
 <!-- Student Evaluations
 -------------------
