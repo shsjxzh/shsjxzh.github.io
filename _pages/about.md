@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-My name is Zihao Xu. I am a first-year doctoral candidate in the CS program of Rutgers University. My advisor is  Prof. Hao Wang. My research interest lies in Bayesian Deep Learning and Domain Adaptation. 
+My name is Zihao Xu. I am a second-year doctoral candidate in the CS program of Rutgers University. My advisor is  Prof. Hao Wang. My research interest lies in Bayesian Deep Learning and Domain Adaptation. 
 I completed my undergraduate studies at Shanghai Jiaotong University (top 5 university in China), majoring in computer science. I am also a member of ACM Honors Class (An honor program for top 5% students in Computer Science of Shanghai Jiaotong University. Famous alumni include Tianqi Chen (assistant professor of CMU), Mu Li (Sr. Principal Scientist of Amazon) and Bo Li (assistant professor of Harvard Medical School)).
 
 <!-- Welcome to my website! Just here for my CV? You can download that [here](/files/Kurchin_CV.pdf). Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my other experience and work!
