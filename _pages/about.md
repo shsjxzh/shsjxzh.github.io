@@ -10,7 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to my website! Just here for my CV? You can download that [here](/files/Kurchin_CV.pdf). Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my other experience and work!
+My name is Zihao Xu. I am a first-year doctoral candidate in the CS program of Rutgers University. My advisor is  Prof. Hao Wang. My research interest lies in Bayesian Deep Learning and Domain Adaptation. 
+I completed my undergraduate studies at Shanghai Jiaotong University (top 5 university in China), majoring in computer science. I am also a member of ACM Honors Class (An honor program for top 5% students in Computer Science of Shanghai Jiaotong University. Famous alumni include Tianqi Chen (assistant professor of CMU), Mu Li (Sr. Principal Scientist of Amazon) and Bo Li (assistant professor of Harvard Medical School)).
+
+<!-- Welcome to my website! Just here for my CV? You can download that [here](/files/Kurchin_CV.pdf). Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my other experience and work!
 
 ## What do/did I do?
 
@@ -28,4 +31,4 @@ Since my time as an undergrad in physics at Yale, I've also been devoted to the 
 About this site
 ===============
 
-This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. [GitHub Pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub Pages. [GitHub Pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
