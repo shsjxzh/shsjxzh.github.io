@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -9,11 +9,11 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publications_2 reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
 
----
+<!-- ---
 title: "Publications"
 layout: gridlay
 sitemap: false
@@ -152,4 +152,4 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
-{% endfor %}
+{% endfor %} -->
