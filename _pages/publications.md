@@ -7,11 +7,11 @@ author_profile: true
 
   You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=hhMeSk8AAAAJ">my Google Scholar profile</a>.
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <!-- ---
 title: "Publications"
@@ -19,12 +19,12 @@ layout: gridlay
 sitemap: false
 permalink: /publications/
 author_profile: true
----
+--- -->
 
 # Publications
 
 {% assign yeartest = true %}
-{% for publi in site.data.publist %}
+{% for publi in site.publications.publist %}
   {% if publi.year %}{% else %}
    {% assign yeartest = false %}
   {% endif %}
@@ -34,7 +34,7 @@ author_profile: true
 ## Coming Soon
 {% endif %}
 
-{% for publi in site.data.publist %}
+{% for publi in site.publications.publist %}
 {% if publi.year %}{% else %}
 
 {% assign bibtest = false %}
@@ -89,7 +89,7 @@ author_profile: true
 {% for myyear in site.data.years %}
 
 {% assign yeartest = false %}
-{% for publi in site.data.publist %}
+{% for publi in site.publications.publist %}
   {% if publi.year == myyear.year %}
    {% assign yeartest = true %}
   {% endif %}
@@ -101,7 +101,7 @@ author_profile: true
 {% endif %}
 {% endif %}
 
-{% for publi in site.data.publist %}
+{% for publi in site.publications.publist %}
 {% if publi.year == myyear.year %}
 
 
@@ -152,4 +152,4 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
-{% endfor %} -->
+{% endfor %}
