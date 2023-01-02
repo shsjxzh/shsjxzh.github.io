@@ -17,7 +17,8 @@ I am Zihao Xu, a second-year PhD student in the Computer Science program at Rutg
 I received my undergraduate degree in Computer Science from Shanghai Jiaotong University, a top-ranked university in China. During my time there, I was also a member of the ACM Honors Class, a prestigious program for the top 5% of Computer Science students at the university. Notable alumni of the program include [Tianqi Chen](https://tqchen.com/) (Assistant Professor at Carnegie Mellon University), [Mu Li](https://www.linkedin.com/in/mulicmu/) (Senior Principal Scientist at Amazon), and [Bo Li](https://lilab-bcb.github.io/) (Assistant Professor at Harvard Medical School).
 
 ## News
-**Feb 8th, 2022**: Our paper: Graph-Relational Domain Adaptation is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA)
+**Feb 8th, 2022**: Our paper: Graph-Relational Domain Adaptation is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).
+
 
 <!-- ** Research Opportunities **: I am always open for new cooperation. If you are a student of Rutgers and interested in generalization problem of machine learning (specifically, domain adaptation and domain generalization), send me an email (zihao.xu@rutgers.edu) to see if we could   -->
 
