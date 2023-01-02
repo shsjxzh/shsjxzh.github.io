@@ -16,6 +16,8 @@ I completed my undergraduate studies at Shanghai Jiaotong University (top 5 univ
 I am Zihao Xu, a second-year PhD student in the Computer Science program at Rutgers University. My advisor is Professor [Hao Wang](http://www.wanghao.in/), and my research focuses on **Bayesian Deep Learning and Domain Adaptation**.
 I received my undergraduate degree in Computer Science from Shanghai Jiaotong University, a top-ranked university in China. During my time there, I was also a member of the ACM Honors Class, a prestigious program for the top 5% of Computer Science students at the university. Notable alumni of the program include [Tianqi Chen](https://tqchen.com/) (Assistant Professor at Carnegie Mellon University), [Mu Li](https://www.linkedin.com/in/mulicmu/) (Senior Principal Scientist at Amazon), and [Bo Li](https://lilab-bcb.github.io/) (Assistant Professor at Harvard Medical School).
 
+<!-- ** Research Opportunities **: I am always open for new cooperation. If you are a student of Rutgers and interested in generalization problem of machine learning (specifically, domain adaptation and domain generalization), send me an email (zihao.xu@rutgers.edu) to see if we could   -->
+
 <!-- Welcome to my website! Just here for my CV? You can download that [here](/files/Kurchin_CV.pdf). Please check out ways to reach me as well as my various other homes on the web in the menu (either to the left or above, depending on your screen resolution) and click the links at the top of the page to check out some of my other experience and work!
 
 ## What do/did I do?
