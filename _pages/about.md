@@ -18,7 +18,7 @@ I received my undergraduate degree in Computer Science from Shanghai Jiaotong Un
 
 ## News
 **Jan 21th, 2023**: Our paper: Domain-Indexing Variational Bayes for Domain Adaptation is accepted by ICLR 2023. See [openreview](https://openreview.net/forum?id=pxStyaf2oJ5) for details. 
-**Feb 8th, 2022**: Our paper: Graph-Relational Domain Adaptation is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).
+<br>**Feb 8th, 2022**: Our paper: Graph-Relational Domain Adaptation is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).<br>
 
 
 <!-- ** Research Opportunities **: I am always open for new cooperation. If you are a student of Rutgers and interested in generalization problem of machine learning (specifically, domain adaptation and domain generalization), send me an email (zihao.xu@rutgers.edu) to see if we could   -->
