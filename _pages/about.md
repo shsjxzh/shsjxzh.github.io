@@ -17,7 +17,7 @@ I am Zihao Xu, a second-year PhD student in the Computer Science program at Rutg
 I received my undergraduate degree in Computer Science from Shanghai Jiaotong University, a top-ranked university in China. During my time there, I was also a member of the ACM Honors Class, a prestigious program for the top 5% of Computer Science students at the university. Notable alumni of the program include [Tianqi Chen](https://tqchen.com/) (Assistant Professor at Carnegie Mellon University), [Mu Li](https://www.linkedin.com/in/mulicmu/) (Senior Principal Scientist at Amazon), and [Bo Li](https://lilab-bcb.github.io/) (Assistant Professor at Harvard Medical School).
 
 ## News
-**Jan 21th, 2023**: Our paper: Domain-Indexing Variational Bayes for Domain Adaptation is accepted by ICLR 2023. See [openreview](https://openreview.net/forum?id=pxStyaf2oJ5) for details. 
+**Jan 21th, 2023**: Our paper: Domain-Indexing Variational Bayes for Domain Adaptation is accepted by ICLR 2023 (spotlight). See [openreview](https://openreview.net/forum?id=pxStyaf2oJ5) for details. 
 <br>**Feb 8th, 2022**: Our paper: Graph-Relational Domain Adaptation is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).<br>
 
 
