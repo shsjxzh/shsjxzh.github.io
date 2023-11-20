@@ -18,7 +18,9 @@ I received my undergraduate degree in Computer Science from Shanghai Jiaotong Un
 
 ## News
 
-**Oct. 6th, 2023**: The [official implementation](https://github.com/Wang-ML-Lab/TSDA) for TSDA is released!<br>
+**Nov. 19th, 2023**<br> Our paper: [Toward a Generalized Bayesian Model of Category Effects](https://osf.io/preprints/psyarxiv/9a7ft/) is accepted by Psychonomic 2023 (Oral).
+
+<br>**Oct. 6th, 2023**: The [official implementation](https://github.com/Wang-ML-Lab/TSDA) for TSDA is released!<br>
 <br>**Jun. 30th, 2023**: Our paper: [Taxonomy-Structured Domain Adaptation](https://arxiv.org/abs/2306.07874) is accepted by ICML 2023. [Code](https://github.com/Wang-ML-Lab/TSDA) will be released soon.<br>
 <br>**Jan. 21th, 2023**: Our paper: [Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation](https://arxiv.org/abs/2302.02561) is accepted by ICLR 2023 (spotlight). See our [code](https://github.com/Wang-ML-Lab/VDI) and [openreview page](https://openreview.net/forum?id=pxStyaf2oJ5) for more details.<br>
 <br>**Feb. 8th, 2022**: Our paper: [Graph-Relational Domain Adaptation](https://arxiv.org/abs/2202.03628) is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).<br>
