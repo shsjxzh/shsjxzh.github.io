@@ -17,7 +17,9 @@ I am Zihao Xu (徐 子昊), a second-year PhD student in the Computer Science pr
 I received my undergraduate degree in Computer Science from Shanghai Jiaotong University, a top-ranked university in China. During my time there, I was also a member of the ACM Honors Class, a prestigious program for the top 5% of Computer Science students at the university. Notable alumni of the program include [Tianqi Chen](https://tqchen.com/) (Assistant Professor at Carnegie Mellon University), [Mu Li](https://www.linkedin.com/in/mulicmu/) (Senior Principal Scientist at Amazon), and [Bo Li](https://lilab-bcb.github.io/) (Assistant Professor at Harvard Medical School).
 
 ## News
-**Jun. 30th, 2023**: Our paper: [Taxonomy-Structured Domain Adaptation](https://arxiv.org/abs/2306.07874) is accepted by ICML 2023. [Code](https://github.com/Wang-ML-Lab/TSDA) will be released soon.<br>
+
+**Oct. 6th, 2023**: The [official implementation](https://github.com/Wang-ML-Lab/TSDA) for TSDA is released!<br>
+<br>**Jun. 30th, 2023**: Our paper: [Taxonomy-Structured Domain Adaptation](https://arxiv.org/abs/2306.07874) is accepted by ICML 2023. [Code](https://github.com/Wang-ML-Lab/TSDA) will be released soon.<br>
 <br>**Jan. 21th, 2023**: Our paper: [Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation](https://arxiv.org/abs/2302.02561) is accepted by ICLR 2023 (spotlight). See our [code](https://github.com/Wang-ML-Lab/VDI) and [openreview page](https://openreview.net/forum?id=pxStyaf2oJ5) for more details.<br>
 <br>**Feb. 8th, 2022**: Our paper: [Graph-Relational Domain Adaptation](https://arxiv.org/abs/2202.03628) is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).<br>
 
