@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zihao Xu (徐 子昊)"
 title_separator          : "-"
-name                     : &name "Zihao Xu (徐 子昊)"
+name                     : &name "Zihao Xu(徐 子昊)"
 description              : &description "PhD student at Rutgers"
 url                      : https://shsjxzh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
