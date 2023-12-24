@@ -1,0 +1,64 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<!-- <div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="publication-image">
+    <img src="{{post.img}}" alt="">
+    </div>
+
+    <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% endif %}
+    </h2>
+
+    <p>Published in <i>{{ post.venue}}</i>, </p>
+
+    <p class="publication-intro" itemprop="description">{{ post.tldr | markdownify }}</p>
+
+  </article>
+</div> -->
+
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <div class="publication-intro">
+      <div class="publication-image">
+          <img src="{{post.img}}" alt="Publication Cover Image" width="400" height="400">
+      </div>
+      <div class="publication-content">
+          <h2 style="font-size: 20px;">{{post.title}}</h2>
+          <p>
+              {{post.authors}}
+              <br>
+              <span style="font-size: 13px;">{{post.venue}}</span>
+              <br>
+              <!-- [<a href="{{post.paperurl}}">paper</a>] [<a href="{{post.paperurl}}">code</a>] [<a href="{{post.paperurl}}">slides</a>] -->
+              [<a href="{{post.paperurl}}">paper</a>] 
+              {% if post.codeurl %}
+              [<a href="{{post.codeurl}}">code</a>]
+              {% else %}
+              [code]
+              {% endif %} 
+              {% if post.slidesurl %}
+              [<a href="{{post.slidesurl}}">slides</a>]
+              {% endif %}
+              {% if post.talkurl %}
+              [<a href="{{post.talkurl}}">talk</a>]
+              {% endif %}
+          </p>
+    </div>
+  <!-- </article> -->
+</div>
