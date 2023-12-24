@@ -28,7 +28,6 @@ I received my undergraduate degree in Computer Science from Shanghai Jiaotong Un
 
 # Selected Publications 
 
-(where selection is completely based on my own bias, and "*" denotes equal contribution)
 "*" indicates equal contribution.
 
 {% for post in site.publications reversed %}
