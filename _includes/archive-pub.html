@@ -44,14 +44,11 @@
               <br>
               <span style="font-size: 14px;">{{post.venue}}</span>
               <br>
-              <!-- <b>TLDR:</b> {{post.tldr}}
-              <br> -->
+              <!-- <b>TLDR:</b> {{post.tldr}}<br> -->
               <!-- [<a href="{{post.paperurl}}">paper</a>] [<a href="{{post.paperurl}}">code</a>] [<a href="{{post.paperurl}}">slides</a>] -->
               [<a href="{{post.paperurl}}">paper</a>] 
               {% if post.codeurl %}
               [<a href="{{post.codeurl}}">code</a>]
-              <!-- {% else %}
-              [code] -->
               {% endif %} 
               {% if post.slidesurl %}
               [<a href="{{post.slidsurl}}">slides</a>]
