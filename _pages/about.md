@@ -26,6 +26,8 @@ I received my undergraduate degree in Computer Science from Shanghai Jiaotong Un
 - Jan. 21th, 2023: *Our paper: [Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation](https://arxiv.org/abs/2302.02561) is accepted by ICLR 2023 (spotlight). See our [code](https://github.com/Wang-ML-Lab/VDI) and [openreview page](https://openreview.net/forum?id=pxStyaf2oJ5) for more details.*
 - Feb. 8th, 2022: *Our paper: [Graph-Relational Domain Adaptation](https://arxiv.org/abs/2202.03628) is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).*
 
+----
+
 # Selected Publications 
 
 "*" indicates equal contribution.
