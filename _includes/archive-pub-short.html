@@ -48,16 +48,20 @@
               <!-- [<a href="{{post.paperurl}}">paper</a>] [<a href="{{post.paperurl}}">code</a>] [<a href="{{post.paperurl}}">slides</a>] -->
               [<a href="{{post.paperurl}}">paper</a>] 
               {% if post.codeurl %}
-              [<a href="{{post.codeurl}}">code</a>]
-              {% else %}
-              [code]
+              [<a href="{{post.codeurl}}">code (and data)</a>]
+              <!-- {% else %}
+              [code] -->
               {% endif %} 
-              {% if post.slidesurl %}
-              [<a href="{{post.slidesurl}}">slides</a>]
-              {% endif %}
               {% if post.talkurl %}
               [<a href="{{post.talkurl}}">talk</a>]
               {% endif %}
+              {% if post.slidesurl %}
+              [<a href="{{post.slidesurl}}">slides</a>]
+              {% endif %}
+              {% if post.websiteurl %}
+              [<a href="{{post.websiteurl}}">website</a>]
+              {% endif %}
+
           </p>
     </div>
   <!-- </article> -->
