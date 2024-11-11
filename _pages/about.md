@@ -10,18 +10,18 @@ redirect_from:
 
 {% include base_path %}
 
-I am Zihao Xu (徐 子昊), a third-year PhD candidate in the Computer Science program at Rutgers University. My advisor is Professor [Hao Wang](http://www.wanghao.in/), and my research focuses on **Bayesian Deep Learning and Domain Adaptation**.
+I am Zihao Xu (徐 子昊), a third-year PhD candidate in the Computer Science program at Rutgers University. My advisor is Professor [Hao Wang](http://www.wanghao.in/), and my research focuses on **Bayesian Deep Learning and Domain Adaptation**. Recently, I focus on the model generalization for Large Language Models (LLM).
 I received my undergraduate degree in Computer Science from Shanghai Jiaotong University, a top-ranked university in China. During my time there, I was also a member of the ACM Honors Class, a prestigious program for the top 5% of Computer Science students at the university. Notable alumni of the program include [Tianqi Chen](https://tqchen.com/) (Assistant Professor at Carnegie Mellon University), [Mu Li](https://www.linkedin.com/in/mulicmu/) (former Senior Principal Scientist at Amazon), and [Bo Li](https://lilab-bcb.github.io/) (Assistant Professor at Harvard Medical School).
 
 <!-- ## News
-**Nov. 19th, 2023** Our paper: [Toward a Generalized Bayesian Model of Category Effects](https://osf.io/preprints/psyarxiv/9a7ft/) is accepted by Psychonomic 2023 (Oral).<br>
+**Sep. 19th, 2023** Our paper: [Toward a Generalized Bayesian Model of Category Effects](https://osf.io/preprints/psyarxiv/9a7ft/) is accepted by Psychonomic 2023 (Oral).<br>
 <br>**Oct. 6th, 2023**: The [official implementation](https://github.com/Wang-ML-Lab/TSDA) for TSDA is released!<br>
 <br>**Jun. 30th, 2023**: Our paper: [Taxonomy-Structured Domain Adaptation](https://arxiv.org/abs/2306.07874) is accepted by ICML 2023. [Code](https://github.com/Wang-ML-Lab/TSDA) will be released soon.<br>
 <br>**Jan. 21th, 2023**: Our paper: [Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation](https://arxiv.org/abs/2302.02561) is accepted by ICLR 2023 (spotlight). See our [code](https://github.com/Wang-ML-Lab/VDI) and [openreview page](https://openreview.net/forum?id=pxStyaf2oJ5) for more details.<br>
 <br>**Feb. 8th, 2022**: Our paper: [Graph-Relational Domain Adaptation](https://arxiv.org/abs/2202.03628) is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).<br> -->
 
 ## News
-- Nov. 19th, 2023: *Our paper: [Toward a Generalized Bayesian Model of Category Effects](https://osf.io/preprints/psyarxiv/9a7ft/) is accepted by Psychonomic 2023 (Oral).*
+- Sep. 27th, 2024: *Our paper: [Towards a Generalized Bayesian Model of Reconstructive Memory: A Generalized Model of Reconstructive Memory](https://link.springer.com/article/10.1007/s42113-024-00222-8) is accepted by Computational Brain & Behavior.*
 - Jun. 30th, 2023: *Our paper: [Taxonomy-Structured Domain Adaptation](https://arxiv.org/abs/2306.07874) is accepted by ICML 2023. [Code](https://github.com/Wang-ML-Lab/TSDA) is released.*
 - Jan. 21th, 2023: *Our paper: [Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation](https://arxiv.org/abs/2302.02561) is accepted by ICLR 2023 (spotlight). See our [code](https://github.com/Wang-ML-Lab/VDI) and [openreview page](https://openreview.net/forum?id=pxStyaf2oJ5) for more details.*
 - Feb. 8th, 2022: *Our paper: [Graph-Relational Domain Adaptation](https://arxiv.org/abs/2202.03628) is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).*
