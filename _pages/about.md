@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am Zihao Xu (徐 子昊), a third-year PhD candidate in the Computer Science program at Rutgers University. My advisor is Professor [Hao Wang](http://www.wanghao.in/), and my research focuses on **Bayesian Deep Learning and Domain Adaptation**. Recently, I focus on the model generalization for Large Language Models (LLM).
+I am Zihao Xu (徐 子昊), a fourth-year PhD candidate in the Computer Science program at Rutgers University. My advisor is Professor [Hao Wang](http://www.wanghao.in/), and my research focuses on **Bayesian Deep Learning and Domain Adaptation**. Recently, I focus on the model generalization for **Large Language Models (LLM).**
 I received my undergraduate degree in Computer Science from Shanghai Jiaotong University, a top-ranked university in China. During my time there, I was also a member of the ACM Honors Class, a prestigious program for the top 5% of Computer Science students at the university. Notable alumni of the program include [Tianqi Chen](https://tqchen.com/) (Assistant Professor at Carnegie Mellon University), [Mu Li](https://www.linkedin.com/in/mulicmu/) (former Senior Principal Scientist at Amazon), and [Bo Li](https://lilab-bcb.github.io/) (Assistant Professor at Harvard Medical School).
 
 <!-- ## News
