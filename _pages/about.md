@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am Zihao Xu (徐 子昊), a fourth-year PhD candidate in the Computer Science program at Rutgers University. My advisor is Professor [Hao Wang](http://www.wanghao.in/), and my research focuses on **Bayesian Deep Learning and Domain Adaptation**. Recently, I focus on the model generalization for **Large Language Models (LLM).**
+I am Zihao Xu (徐 子昊), a fourth-year PhD candidate in the Computer Science program at Rutgers University. My advisor is Professor [Hao Wang](http://www.wanghao.in/), and my research interests span **Large Language Models (LLMs)**, **Domain Adaptation**, **Recommendation Systems**, and **Bayesian Deep Learning**.
 I received my undergraduate degree in Computer Science from Shanghai Jiaotong University, a top-ranked university in China. During my time there, I was also a member of the ACM Honors Class, a prestigious program for the top 5% of Computer Science students at the university. Notable alumni of the program include [Tianqi Chen](https://tqchen.com/) (Assistant Professor at Carnegie Mellon University), [Mu Li](https://www.linkedin.com/in/mulicmu/) (former Senior Principal Scientist at Amazon), and [Bo Li](https://lilab-bcb.github.io/) (Assistant Professor at Harvard Medical School).
 
 <!-- ## News
@@ -21,6 +21,8 @@ I received my undergraduate degree in Computer Science from Shanghai Jiaotong Un
 <br>**Feb. 8th, 2022**: Our paper: [Graph-Relational Domain Adaptation](https://arxiv.org/abs/2202.03628) is accepted by ICLR 2022. Code is released [here](https://github.com/Wang-ML-Lab/GRDA).<br> -->
 
 ## News
+- Feb. 25th, 2025: *Our paper: [Implicit In-context Learning](https://arxiv.org/abs/2405.14660) is accepted by ICLR 2025. [Code](https://github.com/LzVv123456/I2CL) is released.*
+- Nov 25th, 2024: *Our paper: [Continual Learning of Large Language Models: A Comprehensive Survey](https://arxiv.org/pdf/2404.16789) is accepted by ACM Computing Surveys, 2024.*
 - Sep. 27th, 2024: *Our paper: [Towards a Generalized Bayesian Model of Reconstructive Memory: A Generalized Model of Reconstructive Memory](https://link.springer.com/article/10.1007/s42113-024-00222-8) is accepted by Computational Brain & Behavior.*
 - Jun. 30th, 2023: *Our paper: [Taxonomy-Structured Domain Adaptation](https://arxiv.org/abs/2306.07874) is accepted by ICML 2023. [Code](https://github.com/Wang-ML-Lab/TSDA) is released.*
 - Jan. 21th, 2023: *Our paper: [Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation](https://arxiv.org/abs/2302.02561) is accepted by ICLR 2023 (spotlight). See our [code](https://github.com/Wang-ML-Lab/VDI) and [openreview page](https://openreview.net/forum?id=pxStyaf2oJ5) for more details.*
